@@ -1,0 +1,3 @@
+from subidaAlimentosBase import resubida_alimentos_base
+
+resubida_alimentos_base()

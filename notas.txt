@@ -1,0 +1,4 @@
+he cambiado interprete a global
+he instalado pymongo: pip install "pymongo[srv]"
+he instalado env 
+he instalado dotenv 1.0.1: pip install python-dotenv
