@@ -8,11 +8,11 @@ venv trae un archivo default que no se suele usar, se puede borrar, el que cuent
 
 git init #para iniciar git
 git add . #para añadir cambios al commit
-git commit -m "commit inicial" #para nombre commit
+git commit -m "commit inicial" #para dar nombre y preparar commit
 creo repo en git y obtengo:
 git remote add origin https://github.com/juanpc19/CalPal_MongoDB_Python.git
 git branch -M main
-git push -u origin main #para hacer el push
+git push -u origin main #para hacer el push del commit
 
 creo archivo .env a nivel raiz y guardo las vars de entorno ahi
 uso dotenv para extraer valor de var donde proceda a
