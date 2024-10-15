@@ -4,11 +4,13 @@ from dotenv import load_dotenv
 from fileUtils import leerFichero
 import os 
 
+#cargo env 
 load_dotenv()
 
+#obtengo la uri 
 uri = os.getenv("MONGO_URI")
 
-# Create a new client and connect to the server
+#creo el cliente y conecto al servidor usando la uri
 client = MongoClient(uri, server_api=ServerApi('1'))
 
 #la bbdd es diferente a cluster pero mismo nombre
