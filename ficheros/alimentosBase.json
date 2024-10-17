@@ -1,6 +1,5 @@
 [
     {
-        "id_alimento": "1",
         "nombre": "Plátano",
         "tipo": "Fruta",
         "cantidad_gramos": 100,
@@ -11,7 +10,6 @@
         "info_adicional": "Proporciona energía rápida, mejora la digestión y ayuda a regular la presión arterial. Rico en potasio, vitamina B6, vitamina C y fibra."
     },
     {
-        "id_alimento": "2",
         "nombre": "Kiwi",
         "tipo": "Fruta",
         "cantidad_gramos": 100,
@@ -22,7 +20,6 @@
         "info_adicional": "Fortalece el sistema inmunológico, mejora la digestión y la salud cardiovascular. Rico en vitamina C, vitamina K, fibra y antioxidantes."
     },
     {
-        "id_alimento": "3",
         "nombre": "Naranja",
         "tipo": "Fruta",
         "cantidad_gramos": 100,
@@ -33,7 +30,6 @@
         "info_adicional": "Refuerza el sistema inmune, mejora la salud de la piel y favorece la absorción de hierro. Rica en vitamina C, fibra, y antioxidantes."
     },
     {
-        "id_alimento": "4",
         "nombre": "Mandarina",
         "tipo": "Fruta",
         "cantidad_gramos": 100,
@@ -44,7 +40,6 @@
         "info_adicional": "Refuerza el sistema inmune, mejora la digestión y favorece la salud de la piel. Rica en vitamina C, vitamina A, fibra y antioxidantes."
     },
     {
-        "id_alimento": "5",
         "nombre": "Uvas",
         "tipo": "Fruta",
         "cantidad_gramos": 100,
@@ -55,7 +50,6 @@
         "info_adicional": "Mejoran la salud cardiovascular, tienen propiedades antioxidantes y favorecen la digestión. Ricas en vitamina C, vitamina K y antioxidantes como los flavonoides."
     },
     {
-        "id_alimento": "6",
         "nombre": "Piña",
         "tipo": "Fruta",
         "cantidad_gramos": 100,
@@ -66,7 +60,6 @@
         "info_adicional": "Mejora la digestión, refuerza el sistema inmunológico y tiene propiedades antiinflamatorias. Rica en vitamina C, manganeso y bromelina (una enzima digestiva)."
     },
     {
-        "id_alimento": "7",
         "nombre": "Mango",
         "tipo": "Fruta",
         "cantidad_gramos": 100,
@@ -77,7 +70,6 @@
         "info_adicional": "Mejora la digestión, refuerza el sistema inmunológico y favorece la salud ocular. Rico en vitamina C, vitamina A, fibra y antioxidantes."
     },
     {
-        "id_alimento": "8",
         "nombre": "Frambuesa",
         "tipo": "Fruta",
         "cantidad_gramos": 100,
@@ -88,7 +80,6 @@
         "info_adicional": "Rica en antioxidantes, mejora la salud cardiovascular y favorece la digestión. Contiene vitamina C, fibra y manganeso."
     },
     {
-        "id_alimento": "9",
         "nombre": "Arándanos",
         "tipo": "Fruta",
         "cantidad_gramos": 100,
@@ -99,7 +90,6 @@
         "info_adicional": "Potentes antioxidantes, mejoran la salud cerebral y fortalecen el sistema inmunológico. Ricos en vitamina C, vitamina K y fibra."
     },
     {
-        "id_alimento": "10",
         "nombre": "Cereza",
         "tipo": "Fruta",
         "cantidad_gramos": 100,
@@ -110,7 +100,6 @@
         "info_adicional": "Tiene propiedades antiinflamatorias, mejora la calidad del sueño y favorece la salud cardiovascular. Rica en vitamina C, potasio y antioxidantes."
     },
     {
-        "id_alimento": "11",
         "nombre": "Coco",
         "tipo": "Fruta",
         "cantidad_gramos": 100,
@@ -121,7 +110,6 @@
         "info_adicional": "Hidratante y energizante, favorece la salud digestiva y la función cardíaca. Rico en grasas saludables, fibra, vitamina C y minerales como el manganeso y el cobre."
     },
     {
-        "id_alimento": "12",
         "nombre": "Aguacate",
         "tipo": "Fruta",
         "cantidad_gramos": 100,
@@ -132,7 +120,6 @@
         "info_adicional": "Rico en grasas saludables, mejora la salud cardiovascular, ayuda a la absorción de nutrientes y es antiinflamatorio. Contiene vitamina E, vitamina K, potasio y fibra."
     },
     {
-        "id_alimento": "13",
         "nombre": "Melón",
         "tipo": "Fruta",
         "cantidad_gramos": 100,
@@ -143,7 +130,6 @@
         "info_adicional": "Hidratante y bajo en calorías, ayuda a la salud ocular y a la digestión. Rico en vitamina C, vitamina A y antioxidantes."
     },
     {
-        "id_alimento": "14",
         "nombre": "Sandía",
         "tipo": "Fruta",
         "cantidad_gramos": 100,
@@ -154,7 +140,6 @@
         "info_adicional": "Muy hidratante, ayuda a la salud cardiovascular y a la regulación de la presión arterial. Rica en vitamina C, vitamina A y antioxidantes como el licopeno."
     },
     {
-        "id_alimento": "15",
         "nombre": "Fresas",
         "tipo": "Fruta",
         "cantidad_gramos": 100,
@@ -165,7 +150,6 @@
         "info_adicional": "Ricas en antioxidantes, mejoran la salud cardiovascular y apoyan la función inmunológica. Contienen vitamina C, fibra y manganeso."
     },
     {
-        "id_alimento": "16",
         "nombre": "Manzana",
         "tipo": "Fruta",
         "cantidad_gramos": 100,
@@ -176,7 +160,6 @@
         "info_adicional": "Favorece la salud digestiva, ayuda a controlar el colesterol y promueve la salud cardiovascular. Rica en fibra, vitamina C y antioxidantes."
     },
     {
-        "id_alimento": "17",
         "nombre": "Pera",
         "tipo": "Fruta",
         "cantidad_gramos": 100,
@@ -187,7 +170,6 @@
         "info_adicional": "Ayuda a la digestión, promueve la salud cardiovascular y tiene propiedades antiinflamatorias. Rica en fibra, vitamina C y antioxidantes."
     },
     {
-        "id_alimento": "18",
         "nombre": "Granada",
         "tipo": "Fruta",
         "cantidad_gramos": 100,
@@ -198,7 +180,6 @@
         "info_adicional": "Rica en antioxidantes, mejora la salud cardiovascular y tiene propiedades antiinflamatorias. Contiene vitamina C, vitamina K y fibra."
     },
     {
-        "id_alimento": "19",
         "nombre": "Ajo",
         "tipo": "Verduras y hortalizas",
         "cantidad_gramos": 100,
@@ -209,7 +190,6 @@
         "info_adicional": "Potente antibacteriano y antiviral, mejora la salud cardiovascular y tiene propiedades antiinflamatorias. Rico en alicina, vitamina C, vitamina B6 y manganeso."
     },
     {
-        "id_alimento": "20",
         "nombre": "Berenjena",
         "tipo": "Verduras y hortalizas",
         "cantidad_gramos": 100,
@@ -220,7 +200,6 @@
         "info_adicional": "Rica en antioxidantes, apoya la salud cardiovascular y mejora la digestión. Contiene fibra, vitamina C, vitamina K y varios minerales como el potasio."
     },
     {
-        "id_alimento": "21",
         "nombre": "Brócoli",
         "tipo": "Verduras y hortalizas",
         "cantidad_gramos": 100,
@@ -231,7 +210,6 @@
         "info_adicional": "Se consume al vapor, salteado o en ensaladas. Rico en antioxidantes, apoya la salud cardiovascular y fortalece el sistema inmunológico. Contiene vitamina C, vitamina K, fibra y minerales como el calcio y el hierro."
     },
     {
-        "id_alimento": "22",
         "nombre": "Calabacín",
         "tipo": "Verduras y hortalizas",
         "cantidad_gramos": 100,
@@ -242,7 +220,6 @@
         "info_adicional": "Bajo en calorías, ayuda a la digestión y apoya la salud ocular. Rico en vitamina C, vitamina A, potasio y fibra."
     },
     {
-        "id_alimento": "23",
         "nombre": "Calabaza",
         "tipo": "Verduras y hortalizas",
         "cantidad_gramos": 100,
@@ -253,7 +230,6 @@
         "info_adicional": "Rica en antioxidantes, apoya la salud ocular y mejora la digestión. Contiene vitamina A, vitamina C, potasio y fibra."
     },
     {
-        "id_alimento": "24",
         "nombre": "Cebolla",
         "tipo": "Verduras y hortalizas",
         "cantidad_gramos": 100,
@@ -264,7 +240,6 @@
         "info_adicional": "Tiene propiedades antiinflamatorias, ayuda a la salud cardiovascular y mejora la digestión. Rica en vitamina C, vitamina B6, y antioxidantes como la quercetina."
     },
     {
-        "id_alimento": "25",
         "nombre": "Espinaca",
         "tipo": "Verduras y hortalizas",
         "cantidad_gramos": 100,
@@ -275,7 +250,6 @@
         "info_adicional": "Rica en antioxidantes, apoya la salud ocular y fortalece el sistema inmunológico. Contiene vitamina K, vitamina A, vitamina C, hierro y calcio."
     },
     {
-        "id_alimento": "26",
         "nombre": "Lechuga",
         "tipo": "Verduras y hortalizas",
         "cantidad_gramos": 100,
@@ -286,7 +260,6 @@
         "info_adicional": "Hidratante y baja en calorías, favorece la digestión y contribuye a la salud cardiovascular. Rica en vitamina A, vitamina K y folato."
     },
     {
-        "id_alimento": "27",
         "nombre": "Pepino",
         "tipo": "Verduras y hortalizas",
         "cantidad_gramos": 100,
@@ -297,7 +270,6 @@
         "info_adicional": "Muy hidratante y bajo en calorías, ayuda a la salud digestiva y promueve la salud de la piel. Rico en vitamina K, vitamina C y potasio."
     },
     {
-        "id_alimento": "28",
         "nombre": "Perejil",
         "tipo": "Verduras y hortalizas",
         "cantidad_gramos": 100,
@@ -308,7 +280,6 @@
         "info_adicional": "Rico en antioxidantes, apoya la salud digestiva y tiene propiedades antiinflamatorias. Contiene vitamina K, vitamina C, vitamina A y hierro."
     },
     {
-        "id_alimento": "29",
         "nombre": "Pimiento verde",
         "tipo": "Verduras y hortalizas",
         "cantidad_gramos": 100,
@@ -319,7 +290,6 @@
         "info_adicional": "Rico en antioxidantes, apoya la salud ocular y mejora la función inmunológica. Contiene vitamina C, vitamina A, fibra y antioxidantes como los carotenoides."
     },
     {
-        "id_alimento": "30",
         "nombre": "Pimiento rojo",
         "tipo": "Verduras y hortalizas",
         "cantidad_gramos": 100,
@@ -330,7 +300,6 @@
         "info_adicional": "Rico en antioxidantes, mejora la salud ocular y refuerza el sistema inmunológico. Contiene vitamina C, vitamina A, vitamina B6 y fibra."
     },
     {
-        "id_alimento": "31",
         "nombre": "Patata",
         "tipo": "Tubérculos",
         "cantidad_gramos": 100,
@@ -341,7 +310,6 @@
         "info_adicional": "Rica en carbohidratos, proporciona energía y favorece la salud digestiva. Contiene vitamina C, vitamina B6, potasio y fibra."
     },
     {
-        "id_alimento": "32",
         "nombre": "Zanahoria",
         "tipo": "Tubérculos",
         "cantidad_gramos": 100,
@@ -352,7 +320,6 @@
         "info_adicional": "Rica en antioxidantes, apoya la salud ocular y mejora la digestión. Contiene vitamina A, vitamina K, vitamina C y fibra."
     },
     {
-        "id_alimento": "33",
         "nombre": "Remolacha",
         "tipo": "Tubérculos",
         "cantidad_gramos": 100,
@@ -363,7 +330,6 @@
         "info_adicional": "Rica en antioxidantes, mejora la salud cardiovascular y favorece la detoxificación. Contiene vitamina C, folato, manganeso y nitratos, que pueden ayudar a mejorar el rendimiento físico."
     },
     {
-        "id_alimento": "34",
         "nombre": "Boniato",
         "tipo": "Tubérculos",
         "cantidad_gramos": 100,
@@ -374,7 +340,6 @@
         "info_adicional": "Rico en antioxidantes, apoya la salud ocular y proporciona energía sostenida. Contiene vitamina A, vitamina C, fibra y potasio."
     },
     {
-        "id_alimento": "35",
         "nombre": "Garbanzos",
         "tipo": "Legumbress",
         "cantidad_gramos": 100,
@@ -385,7 +350,6 @@
         "info_adicional": "Ricos en proteínas y fibra, ayudan a la digestión y mantienen la saciedad. Contienen hierro, magnesio, folato y vitamina B6."
     },
     {
-        "id_alimento": "36",
         "nombre": "Lentejas",
         "tipo": "Legumbres",
         "cantidad_gramos": 100,
@@ -396,7 +360,6 @@
         "info_adicional": "Ricas en proteínas y fibra, favorecen la digestión y ayudan a regular el azúcar en sangre. Contienen hierro, folato, magnesio y vitamina B1."
     },
     {
-        "id_alimento": "37",
         "nombre": "Judías",
         "tipo": "Legumbres",
         "cantidad_gramos": 100,
@@ -407,7 +370,6 @@
         "info_adicional": "Ricas en proteínas y fibra, ayudan a la digestión y promueven la saciedad. Contienen hierro, folato, magnesio y antioxidantes."
     },
     {
-        "id_alimento": "38",
         "nombre": "Habas",
         "tipo": "Legumbres",
         "cantidad_gramos": 100,
@@ -418,7 +380,6 @@
         "info_adicional": "Ricas en proteínas y fibra, favorecen la digestión y aportan energía. Contienen folato, vitamina A, hierro y antioxidantes."
     },
     {
-        "id_alimento": "39",
         "nombre": "Guisantes",
         "tipo": "Legumbres",
         "cantidad_gramos": 100,
@@ -429,7 +390,6 @@
         "info_adicional": "Ricos en proteínas y fibra, apoyan la digestión y la salud cardiovascular. Contienen vitamina C, vitamina K, folato y antioxidantes."
     },
     {
-        "id_alimento": "40",
         "nombre": "Avena",
         "tipo": "Cereales y granos",
         "cantidad_gramos": 100,
@@ -440,7 +400,6 @@
         "info_adicional": "Rica en fibra, ayuda a la digestión y a mantener niveles de colesterol saludables. Contiene vitamina B1, hierro, magnesio y antioxidantes."
     },
     {
-        "id_alimento": "41",
         "nombre": "Quinoa",
         "tipo": "Cereales y granos",
         "cantidad_gramos": 100,
@@ -451,7 +410,6 @@
         "info_adicional": "Rica en proteínas completas y fibra, apoya la salud digestiva y es apta para dietas sin gluten. Contiene magnesio, hierro, vitamina B6 y antioxidantes."
     },
     {
-        "id_alimento": "42",
         "nombre": "Arroz blanco",
         "tipo": "Cereales y granos",
         "cantidad_gramos": 100,
@@ -462,7 +420,6 @@
         "info_adicional": "Proporciona energía rápida y es fácil de digerir. Contiene carbohidratos, pequeñas cantidades de proteínas, y es enriquecido a menudo con hierro y vitaminas del complejo B."
     },
     {
-        "id_alimento": "43",
         "nombre": "Arroz integral",
         "tipo": "Cereales y granos",
         "cantidad_gramos": 100,
@@ -473,7 +430,6 @@
         "info_adicional": "Rico en fibra, ayuda a la digestión y proporciona energía sostenida. Contiene más nutrientes que el arroz blanco, incluyendo magnesio, hierro y vitaminas del complejo B."
     },
     {
-        "id_alimento": "44",
         "nombre": "Pan blanco",
         "tipo": "Cereales y granos",
         "cantidad_gramos": 100,
@@ -484,7 +440,6 @@
         "info_adicional": "Proporciona energía rápida, pero tiene un bajo contenido de fibra. Contiene carbohidratos, pequeñas cantidades de proteínas, y a menudo es enriquecido con hierro y vitaminas del complejo B."
     },
     {
-        "id_alimento": "45",
         "nombre": "Pan integral",
         "tipo": "Cereales y granos",
         "cantidad_gramos": 100,
@@ -495,7 +450,6 @@
         "info_adicional": "Rico en fibra, ayuda a la digestión y mantiene la saciedad. Contiene más nutrientes que el pan blanco, incluyendo vitaminas del complejo B, hierro y antioxidantes."
     },
     {
-        "id_alimento": "46",
         "nombre": "Pistachos",
         "tipo": "Fruto secos y semillas",
         "cantidad_gramos": 100,
@@ -506,7 +460,6 @@
         "info_adicional": "Ricos en proteínas y grasas saludables, favorecen la salud del corazón y ayudan a la saciedad. Contienen vitamina B6, vitamina E, potasio y antioxidantes."
     },
     {
-        "id_alimento": "47",
         "nombre": "Almendras",
         "tipo": "Fruto secos y semillas",
         "cantidad_gramos": 100,
@@ -517,7 +470,6 @@
         "info_adicional": "Ricas en grasas saludables y proteínas, apoyan la salud del corazón y ayudan a mantener la saciedad. Contienen vitamina E, magnesio, fibra y antioxidantes.  "
     },
     {
-        "id_alimento": "48",
         "nombre": "Cacahuetes",
         "tipo": "Fruto secos y semillas",
         "cantidad_gramos": 100,
@@ -528,7 +480,6 @@
         "info_adicional": "Ricos en proteínas y grasas saludables, apoyan la salud cardiovascular y ayudan a la saciedad. Contienen vitamina E, niacina, folato y antioxidantes."
     },
     {
-        "id_alimento": "49",
         "nombre": "Nueces",
         "tipo": "Fruto secos y semillas",
         "cantidad_gramos": 100,
@@ -539,7 +490,6 @@
         "info_adicional": "Ricas en ácidos grasos omega-3, benefician la salud cerebral y cardiovascular. Contienen antioxidantes, vitamina E, magnesio y proteínas."
     },
     {
-        "id_alimento": "50",
         "nombre": "Semillas de chía",
         "tipo": "Fruto secos y semillas",
         "cantidad_gramos": 100,
@@ -550,7 +500,6 @@
         "info_adicional": "Ricas en omega-3, fibra y proteínas, apoyan la salud digestiva y la saciedad. Contienen antioxidantes, calcio, hierro y magnesio."
     },
     {
-        "id_alimento": "51",
         "nombre": "Semillas de girasol",
         "tipo": "Fruto secos y semillas",
         "cantidad_gramos": 100,
@@ -561,7 +510,6 @@
         "info_adicional": "Ricas en grasas saludables y proteínas, apoyan la salud cardiovascular y tienen propiedades antiinflamatorias. Contienen vitamina E, magnesio, selenio y antioxidantes."
     },
     {
-        "id_alimento": "52",
         "nombre": "Semillas de calabaza",
         "tipo": "Fruto secos y semillas",
         "cantidad_gramos": 100,
@@ -572,7 +520,6 @@
         "info_adicional": "Ricas en proteínas y grasas saludables, apoyan la salud del corazón y tienen propiedades antiinflamatorias. Contienen magnesio, zinc, hierro y antioxidantes."
     },
     {
-        "id_alimento": "53",
         "nombre": "Pechuga de pollo",
         "tipo": "Carnes",
         "cantidad_gramos": 100,
@@ -583,7 +530,6 @@
         "info_adicional": "Rica en proteínas magras, ayuda en la construcción y reparación de tejidos y apoya la saciedad. Contiene vitamina B6, niacina y fósforo, además de ser baja en grasas."
     },
     {
-        "id_alimento": "54",
         "nombre": "Muslo de pollo",
         "tipo": "Carnes",
         "cantidad_gramos": 100,
@@ -594,7 +540,6 @@
         "info_adicional": "Rico en proteínas y grasas saludables, aporta energía y ayuda en la construcción de músculos. Contiene hierro, zinc, vitamina B6 y fósforo, y es más jugoso que la pechuga."
     },
     {
-        "id_alimento": "55",
         "nombre": "Hígado de cerdo",
         "tipo": "Carnes",
         "cantidad_gramos": 100,
@@ -605,7 +550,6 @@
         "info_adicional": "Rico en proteínas y nutrientes, es excelente para la salud, ya que aporta hierro, vitamina A, vitamina B12 y ácido fólico. Promueve la producción de glóbulos rojos y apoya el sistema inmunológico."
     },
     {
-        "id_alimento": "56",
         "nombre": "Hígado de ternera",
         "tipo": "Carnes",
         "cantidad_gramos": 100,
@@ -616,7 +560,6 @@
         "info_adicional": "Muy nutritivo, es una excelente fuente de proteínas, hierro, vitamina A, vitamina B12 y ácido fólico. Ayuda a mejorar la salud sanguínea y apoya el sistema inmunológico."
     },
     {
-        "id_alimento": "57",
         "nombre": "Huevo de gallina",
         "tipo": "Carnes",
         "cantidad_gramos": 100,
@@ -627,7 +570,6 @@
         "info_adicional": "Ricos en proteínas de alta calidad, ayudan en la construcción y reparación de tejidos. Contienen vitamina D, vitamina B12, colina y antioxidantes, y son versátiles en la cocina."
     },
     {
-        "id_alimento": "58",
         "nombre": "Salmón",
         "tipo": "Pescados",
         "cantidad_gramos": 100,
@@ -638,7 +580,6 @@
         "info_adicional": "Rico en ácidos grasos omega-3, apoya la salud cardiovascular y cerebral. Contiene proteínas de alta calidad, vitamina D, vitamina B12 y selenio."
     },
     {
-        "id_alimento": "59",
         "nombre": "Atún",
         "tipo": "Pescados",
         "cantidad_gramos": 100,
@@ -649,7 +590,6 @@
         "info_adicional": "Rico en proteínas magras y ácidos grasos omega-3, apoya la salud cardiovascular y ayuda en la construcción muscular. Contiene vitamina D, vitamina B12, selenio y niacina."
     },
     {
-        "id_alimento": "60",
         "nombre": "Ostras",
         "tipo": "Pescados",
         "cantidad_gramos": 100,
@@ -660,7 +600,6 @@
         "info_adicional": "Ricas en proteínas y bajas en calorías, son excelentes para la salud del sistema inmunológico y la salud sexual. Contienen zinc, vitamina B12, hierro y ácidos grasos omega-3."
     },
     {
-        "id_alimento": "61",
         "nombre": "Caballa",
         "tipo": "Pescados",
         "cantidad_gramos": 100,
@@ -671,7 +610,6 @@
         "info_adicional": "Rica en ácidos grasos omega-3, apoya la salud cardiovascular y cerebral. Contiene proteínas de alta calidad, vitamina D, vitamina B12 y selenio."
     },
     {
-        "id_alimento": "62",
         "nombre": "Merluza",
         "tipo": "Pescados",
         "cantidad_gramos": 100,
@@ -682,7 +620,6 @@
         "info_adicional": "Rica en proteínas y baja en grasas, es ideal para una dieta saludable. Contiene vitamina B12, fósforo, y selenio, y es una buena fuente de ácidos grasos omega-3."
     },
     {
-        "id_alimento": "63",
         "nombre": "Aceite de oliva",
         "tipo": "Aceites y grasas",
         "cantidad_gramos": 100,
@@ -693,7 +630,6 @@
         "info_adicional": "Rico en grasas saludables (ácidos grasos monoinsaturados), apoya la salud cardiovascular y tiene propiedades antiinflamatorias. Contiene antioxidantes como la vitamina E y polifenoles, que ayudan a combatir el estrés oxidativo."
     },
     {
-        "id_alimento": "64",
         "nombre": "Aceite de girasol",
         "tipo": "Aceites y grasas",
         "cantidad_gramos": 100,
@@ -704,7 +640,6 @@
         "info_adicional": "Rico en grasas poliinsaturadas y vitamina E, ayuda a mantener la salud cardiovascular y actúa como antioxidante. Sin embargo, es recomendable usarlo con moderación debido a su alto contenido calórico."
     },
     {
-        "id_alimento": "65",
         "nombre": "Margarina",
         "tipo": "Aceites y grasas",
         "cantidad_gramos": 100,
@@ -715,7 +650,6 @@
         "info_adicional": "Rica en grasas, a menudo se enriquece con vitaminas A y D. Puede contener grasas trans, por lo que se recomienda optar por variedades sin grasas trans para mantener una dieta saludable."
     },
     {
-        "id_alimento": "66",
         "nombre": "Mantequilla",
         "tipo": "Aceites y grasas",
         "cantidad_gramos": 100,
@@ -726,7 +660,6 @@
         "info_adicional": "Rica en grasas saturadas y vitamina A, aporta un sabor característico a los alimentos. Sin embargo, se debe consumir con moderación debido a su alto contenido calórico y de grasas saturadas."
     },
     {
-        "id_alimento": "67",
         "nombre": "Queso de cabra",
         "tipo": "Lácteoss",
         "cantidad_gramos": 100,
@@ -737,7 +670,6 @@
         "info_adicional": "Rico en proteínas y calcio, es más fácil de digerir que otros quesos. Contiene grasas saludables y vitaminas como la B2 (riboflavina) y la B12. Su sabor es característico y puede variar de suave a fuerte."
     },
     {
-        "id_alimento": "68",
         "nombre": "Queso cheddar",
         "tipo": "Lácteos",
         "cantidad_gramos": 100,
@@ -748,7 +680,6 @@
         "info_adicional": "Rico en proteínas y calcio, ofrece un sabor fuerte y distintivo. Contiene grasas saturadas y vitaminas como la A y B12, pero debe consumirse con moderación debido a su alto contenido calórico."
     },
     {
-        "id_alimento": "69",
         "nombre": "Queso gouda",
         "tipo": "Lácteos",
         "cantidad_gramos": 100,
@@ -759,7 +690,6 @@
         "info_adicional": "Rico en proteínas y calcio, tiene un sabor suave y cremoso que se intensifica con la edad. Contiene grasas saludables y vitaminas A y B12, aunque es importante consumirlo con moderación debido a su contenido calórico."
     },
     {
-        "id_alimento": "70",
         "nombre": "Queso mozzarella",
         "tipo": "Lácteos",
         "cantidad_gramos": 100,
@@ -770,7 +700,6 @@
         "info_adicional": "Rico en proteínas y calcio, es conocido por su textura elástica y sabor suave. Contiene grasas saludables y vitaminas B2 y B12, siendo una opción más ligera que otros quesos."
     },
     {
-        "id_alimento": "71",
         "nombre": "Queso parmesano",
         "tipo": "Lácteos",
         "cantidad_gramos": 100,
@@ -781,7 +710,6 @@
         "info_adicional": "Rico en proteínas y calcio, tiene un sabor fuerte y salado. Contiene grasas saludables y vitaminas como la A y B12, y es bajo en lactosa, lo que lo hace más digerible para algunas personas."
     },
     {
-        "id_alimento": "72",
         "nombre": "Leche entera de vaca",
         "tipo": "Lácteos",
         "cantidad_gramos": 100,
@@ -792,7 +720,6 @@
         "info_adicional": "Rica en proteínas, calcio y grasas saludables, apoya la salud ósea y muscular. Contiene vitaminas A, D y B12, aunque se debe consumir con moderación por su alto contenido calórico y de grasas saturadas."
     },
     {
-        "id_alimento": "73",
         "nombre": "Leche semidesnatada de vaca",
         "tipo": "Lácteos",
         "cantidad_gramos": 100,
@@ -803,7 +730,6 @@
         "info_adicional": "Ofrece un equilibrio entre proteínas, calcio y menos grasas que la leche entera, siendo ideal para quienes buscan reducir la ingesta de grasas. Contiene vitaminas A, D y B12, y es una buena opción para mantener una dieta equilibrada."
     },
     {
-        "id_alimento": "74",
         "nombre": "Leche desnatada de vaca",
         "tipo": "Lácteos",
         "cantidad_gramos": 100,
@@ -814,7 +740,6 @@
         "info_adicional": "Baja en grasas y calorías, es rica en proteínas y calcio, lo que la convierte en una opción saludable para quienes buscan controlar su peso. Contiene vitaminas A y B12, pero puede carecer de la vitamina D presente en la leche entera."
     },
     {
-        "id_alimento": "75",
         "nombre": "Leche de cabra",
         "tipo": "Lácteos",
         "cantidad_gramos": 100,
@@ -825,7 +750,6 @@
         "info_adicional": "Más fácil de digerir que la leche de vaca, es rica en proteínas, calcio y grasas saludables. Contiene vitaminas A y B12, y es una buena opción para personas con intolerancia a la lactosa, aunque su sabor es más fuerte y distintivo."
     },
     {
-        "id_alimento": "76",
         "nombre": "Leche de almendra",
         "tipo": "Lácteos",
         "cantidad_gramos": 100,
@@ -836,7 +760,6 @@
         "info_adicional": "Baja en calorías y sin colesterol, es rica en vitamina E y antioxidantes. Sin embargo, contiene menos proteínas que la leche de vaca y puede tener aditivos, por lo que es recomendable elegir versiones sin azúcares añadidos."
     },
     {
-        "id_alimento": "77",
         "nombre": "Yogur griego",
         "tipo": "Lácteos",
         "cantidad_gramos": 100,
@@ -847,7 +770,6 @@
         "info_adicional": "Rico en proteínas y probióticos, apoya la salud digestiva y la saciedad. Contiene calcio, vitamina B12 y menos azúcar que el yogur tradicional. Es una opción versátil y nutritiva, ideal para dietas equilibradas."
     },
     {
-        "id_alimento": "78",
         "nombre": "Yogur griego desnatado",
         "tipo": "Lácteos",
         "cantidad_gramos": 100,
@@ -858,7 +780,6 @@
         "info_adicional": "Bajo en grasas y calorías, es rico en proteínas y probióticos, lo que favorece la salud digestiva y la saciedad. Contiene calcio y vitamina B12, siendo una opción saludable para quienes buscan reducir su ingesta de grasas sin sacrificar nutrientes."
     },
     {
-        "id_alimento": "79",
         "nombre": "Kéfir",
         "tipo": "Lácteos",
         "cantidad_gramos": 100,
