@@ -14,7 +14,7 @@ uri = os.getenv("MONGO_URI")
 client = MongoClient(uri, server_api=ServerApi('1'))
 
 #la bbdd es diferente a cluster pero mismo nombre
-#db = client.CalPal "si bbd ya existe, lo de abajo para crearla sino existe"
+#db = client.CalPal si bbdd ya existe, client["CalPal"] para crearla sino existe"
 db = client["CalPal"]
 #referencia a coleccion
 alimentos_base_collection=db["alimentos_base"]
